@@ -17,7 +17,7 @@ System.out.print("\t\t\t\t\t|                                           		      
 System.out.print("\t\t\t\t\t|                                           		                                    |\n");
 System.out.print("\t\t\t\t\t|                                           		                                    |\n");
 System.out.print("\t\t\t\t\t|                                           		                                    |\n");
-System.out.print("\t\t\t\t\t|                            WELCOME TO E-HEALTH CARE MANAGEMENT SYSTEM                     |\n");
+System.out.print("\t\t\t\t\t|                            WELCOME TO SWASTHA KENDRA                                      |\n");
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
@@ -25,7 +25,7 @@ System.out.print("\t\t\t\t\t|                                                   
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
 System.out.print("\t\t\t\t\t|                                                                                           |\n");
 System.out.print("\t\t\t\t\t|                                         -Brought To You by                                |\n");
-System.out.print("\t\t\t\t\t|                                      	 Md Fahad,Omer Mohiuddin and Yaseen Hussain         |\n");
+System.out.print("\t\t\t\t\t|                                      	   Aayush Adhikari                                  |\n");
 System.out.print("\t\t\t\t\t|___________________________________________________________________________________________|\n");
 }
 //Declaring variales to be used
@@ -64,7 +64,7 @@ void login()
    int a;
    String pass;
    System.out.print("\t\t\t\t\t _______________________________________________________________________________________ \n");
-   System.out.print("\n\t\t\t\t\t\t\t\tE-HEALTH CARE MANAGEMENT SYSTEM \n");
+   System.out.print("\n\t\t\t\t\t\t\t\tSWASTHA KENDRA \n");
    System.out.print("\t\t\t\t\t _______________________________________________________________________________________ \n");
    System.out.println("\n\n\t\t\t\t\t\t\t\t------------------------------");
    System.out.print("\n\t\t\t\t\t\t\t\t\t     LOGIN \n");	
@@ -370,7 +370,7 @@ void info()
     pressAnyKeyToContinue();
 }
 }
-public class Ehospital
+public class Swastha
 {
 public static void main (String args[])
 {
